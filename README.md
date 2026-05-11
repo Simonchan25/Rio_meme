@@ -2,7 +2,7 @@
 
 > 🌐 **English** · [简体中文](README.zh-CN.md)
 
-A webcam toy that mirrors your hands and face with a hamster meme. Show a peace sign — a peace-sign hamster pops up. Stick your tongue out — a tongue-out hamster pops up. Make a heart with both hands — a giant heart hamster.
+A webcam toy that mirrors your hands and face with a meme of **Rio**, an Australian Shepherd. Show a peace sign — peace-sign Rio pops up. Stick your tongue out — tongue-out Rio pops up. Make a heart with both hands — giant heart Rio.
 
 Runs locally on a Mac. No accounts, no servers, no upload — everything happens on your laptop. Built on Google's MediaPipe Tasks API.
 
@@ -177,7 +177,7 @@ Total zip size ≈ 100 MB (Python installer 44 MB + meme images ~50 MB).
 ## Credits
 
 - [MediaPipe Tasks](https://ai.google.dev/edge/mediapipe/solutions/guide) — Google's on-device ML framework. The `gesture_recognizer` and `face_landmarker` models are the core.
-- Meme images in this repo were generated with ChatGPT image generation; swap them for whatever style you want.
+- Meme images in this repo are of **Rio**, an Australian Shepherd, generated with ChatGPT image generation. Swap them for whatever (or whoever) you want.
 
 ## License
 

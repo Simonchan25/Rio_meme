@@ -2,7 +2,7 @@
 
 > 🌐 [English](README.md) · **简体中文**
 
-一个用摄像头识别你的手势和表情、并自动弹出对应仓鼠 meme 的小玩具。比个耶——弹出比耶仓鼠；吐舌头——弹出吐舌头仓鼠；双手比心——弹出大爱心仓鼠。
+一个用摄像头识别你的手势和表情、并自动弹出对应 **Rio**（澳牧犬）meme 的小玩具。比个耶——弹出比耶 Rio；吐舌头——弹出吐舌头 Rio；双手比心——弹出大爱心 Rio。
 
 完全跑在本地，不联网、不上传任何画面。底层用 Google 的 MediaPipe Tasks API。
 
@@ -177,7 +177,7 @@ zip 大小约 100MB（Python 安装包 44MB + meme 图 ~50MB）。
 ## 致谢
 
 - [MediaPipe Tasks](https://ai.google.dev/edge/mediapipe/solutions/guide) —— Google 的端侧 ML 框架。`gesture_recognizer` 和 `face_landmarker` 模型是整个项目的核心。
-- 仓库里的仓鼠 meme 图是用 ChatGPT 生成的，你可以换成任何你喜欢的图。
+- 仓库里的 meme 图是用 ChatGPT 生成的 **Rio**（一只澳牧犬）。你可以换成任何你喜欢的图（或者你家的宠物）。
 
 ## 协议
 
