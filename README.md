@@ -1,4 +1,4 @@
-# hamster-mirror
+# Rio_meme
 
 A webcam toy that mirrors your hands and face with a hamster meme. Show a peace sign — a peace-sign hamster pops up. Stick your tongue out — a tongue-out hamster pops up. Make a heart with both hands — a giant heart hamster.
 
@@ -140,7 +140,7 @@ The two-hand combo detector is in [`detect_two_hand_combo`](hand_meme.py).
 ## Project layout
 
 ```
-hamster-mirror/
+Rio_meme/
 ├── start.command            ← double-click on macOS
 ├── hand_meme.py             ← the app
 ├── memes/                   ← per-event meme images (PNG)
