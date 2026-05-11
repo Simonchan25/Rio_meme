@@ -1,5 +1,7 @@
 # Rio_meme
 
+> 🌐 **English** · [简体中文](README.zh-CN.md)
+
 A webcam toy that mirrors your hands and face with a hamster meme. Show a peace sign — a peace-sign hamster pops up. Stick your tongue out — a tongue-out hamster pops up. Make a heart with both hands — a giant heart hamster.
 
 Runs locally on a Mac. No accounts, no servers, no upload — everything happens on your laptop. Built on Google's MediaPipe Tasks API.
